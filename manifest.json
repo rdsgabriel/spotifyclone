@@ -1,0 +1,9 @@
+{
+    "name": "Spotify",
+    "short_name": "Spotify",
+    "theme_color": "#1ed760",
+    "background_color": "#18d760",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/https://rdsgabriel.github.io/spotifyclone/"
+}
