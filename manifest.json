@@ -4,6 +4,6 @@
     "theme_color": "#1ed760",
     "background_color": "#18d760",
     "display": "browser",
-    "scope": "/",
+    "scope": "https://rdsgabriel.github.io/spotifyclone/",
     "start_url": "https://rdsgabriel.github.io/spotifyclone/"
 }
